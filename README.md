@@ -1,2 +1,1 @@
-# MyShopifyExpart.com
-This Porifoliio site of ahmed sohel.
+# Single page portfollio website
